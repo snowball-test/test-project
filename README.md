@@ -6,4 +6,4 @@ This example used [`next-pwa`](https://github.com/shadowwalker/next-pwa) to crea
 
 (Under construction)
 
-<!-- Test commit 1 -->
+<!-- Test commit 2 -->
